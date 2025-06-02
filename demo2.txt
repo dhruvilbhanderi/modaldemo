@@ -1,8 +1,12 @@
 demo is modal
 
+<<<<<<< HEAD
 hello world ! 
 demo 
 
 dhruvil bhanderi
 
 sdcskksdmcksmckm
+=======
+dhruvil bhanderi
+>>>>>>> 5da87df (dgergerfrer)
